@@ -1,3 +1,4 @@
+[R-Exercises-Session-8.docx](https://github.com/mmarin8/Assignment8/files/6729485/R-Exercises-Session-8.docx)
 ---
 title: "R Exercises Session 8"
 author: "Introduction to R for Data Management and Analysis"
